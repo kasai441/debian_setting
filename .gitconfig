@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	name = kasai441
+	email = kasai441441@gmail.com
+[credential]
+	helper = /home/kasai441/git-2.30.0/contrib/credential/gnome-keyring/git-credential-gnome-keyring.c
